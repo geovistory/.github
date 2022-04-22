@@ -17,3 +17,36 @@
 ### validationon
 - on stag: new features / upgrades tested successfully by the other DevOps & Requester
 - on prod: stag is promoted to prod
+
+
+
+## Minor issue
+
+Specification done rules: 
+
+- The developer has no more questions
+
+Implementation done rules: 
+
+- The developer tested locally
+
+Validation done rules: 
+
+- The developer team tested and validated the issue on staging
+
+## Major Issue
+
+Specification done rules: 
+
+- Developer and requester of the issue validated the spec
+
+Implementation done rules: 
+
+- The developer tested locally
+- code reviewed by other dev
+- work is visible to the team for reviews (on dev for development issues, on a text for content)
+
+Validation done rules: 
+
+- The developer team tested and validated the issue on staging
+- Validated by requester
