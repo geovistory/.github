@@ -4,7 +4,7 @@ The done rules define the criteria to meet, before an issue can be moved from do
 
 Done rules differ for the categories
 
-- [Minor](#minor-issues): Simple development issues
+- [Minor](#minor-issues): Simple issues, not worth peer reviews
 - [Ops](#ops-issues): Issues related to Kubernetes, Workflows and similar
 - [Dev](#dev-issues): Development issues (worth a peer review on each step)
 - [Content](#content): Issues related to website content (new pages, texts, videos, ...)
