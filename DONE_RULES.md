@@ -5,8 +5,8 @@ The done rules define the criteria to meet, before an issue can be moved from do
 Done rules differ for the categories
 
 - [Ops](#ops-issues): Issues related to Kubernetes, Workflows and similar
-- [Dev Minor](#dev-minor): Minor development issues
-- [Dev Major](#dev-major): Major development issues (worth a peer review on each step)
+- [Dev simple](#dev-simple): Simple development issues
+- [Dev peer reviewed](#dev-peer-reviewed): Peer reviewed development issues (worth a peer review on each step)
 - [Content](#content): Issues related to website content (new pages, texts, videos, ...)
 
 ## Ops Issues
@@ -25,11 +25,11 @@ Issues related to Kubernetes, Workflows and similar
 - on dev (optional): code reviewed by the other DevOps
 - on stag (mandatory): build/deploy without error (github notification, grafana alerts...)
 
-### validationon
+### validation
 - on stag: new features / upgrades tested successfully by the other DevOps & Requester
 - on prod: stag is promoted to prod
 
-## Dev Minor
+## Dev simple
 
 Specification done rules: 
 
@@ -43,7 +43,7 @@ Validation done rules:
 
 - The developer team tested and validated the issue on staging
 
-## Dev Major
+## Dev peer reviewed
 
 Specification done rules: 
 
