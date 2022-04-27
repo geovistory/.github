@@ -9,6 +9,8 @@ Done rules differ for the categories
 - [Dev](#dev-issues): Development issues (worth a peer review on each step)
 - [Content](#content): Issues related to website content (new pages, texts, videos, ...)
 
+To express the category of an issue, we use labels [minor, ops, dev, content]
+
 ## Minor Issues
 
 Specification done rules: 
