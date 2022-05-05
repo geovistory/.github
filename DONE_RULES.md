@@ -64,3 +64,15 @@ Validation done rules:
 - Validated by requester
 
 ## Content
+Specification done rules: 
+
+- Stakeholder of Geovistory.org validated the spec
+
+Implementation done rules: 
+
+- Content creator created the content and validated it against the spec
+
+Validation done rules: 
+
+- Stakeholder reviewed the content in a pre-production environment
+- Content is online on production environment
