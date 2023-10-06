@@ -6,4 +6,4 @@ The Geovistory information system has two browser-based access points. The first
  
 Geovistory furthermore consists of an active [community](https://www.geovistory.org/community) , which constantly develops and documents its components.
  
-You are invite to join our efforts. Meet us on [Discord](https://discord.gg/pjcwjnruVb)https://discord.gg/pjcwjnruVb!
+You are invite to join our efforts. Meet us on [Discord](https://discord.gg/pjcwjnruVb)
