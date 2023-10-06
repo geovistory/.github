@@ -3,6 +3,8 @@ Welcome to Geovistory Organization.
 We develop and maintain Geovistory, an open source, community driven virtual research environment and data publication platform.
  
 The Geovistory information system has two browser-based access points. The first is the data publication platform [Geovistory.org](https://geovistory.org). Here, researchers and the larger public can review projects, directly access and evaluate curated data. The publication platform is designed in such a way that any software engineer can develop and integrate own components (web components). The second access point is the [Geovistory Toolbox](https://toolbox.geovistory.org), a virtual research environment, where researchers collect, curate and evaluate data.
+
+The conceptual data model used for data curation and publication is developed and published in [OntoME](https://ontome.net/).
  
 Geovistory furthermore consists of an active [community](https://www.geovistory.org/community) , which constantly develops and documents its components.
  
