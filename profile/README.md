@@ -1,6 +1,8 @@
 # Welcome to Geovistory Organization
 
 We develop and maintain Geovistory, an open source, community driven virtual research environment and data publication platform.
+
+:loudspeaker: Want to submit feedback? See [below](#submit-feedback).
  
 ## An infrastructure
 
